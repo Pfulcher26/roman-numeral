@@ -8,6 +8,57 @@
 
 _{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
 
+## Specs 
+
+_Input form only allows numerical values_
+_Example Input: abcd_
+_Example output: Invalid entry_
+
+_The program creates an array for the seven basic roman numeral symbols_
+_Example Input: 10, 100_
+_Example output: X, C_
+
+_The program is going to check if a number is evenly divisible by 1,000, and return true, or false_
+_Example Input: 4,000_
+_Example output: True_
+
+_The program is going to check if a number is evenly divisible by 500, and return true, or false_
+_Example Input: 1,500_
+_Example output: True_
+
+_The program is going to check if a number is evenly divisible by 100, and return true, or false_
+_Example Input: 300_
+_Example output: True_
+
+_The program is going to check if a number is evenly divisible by 50, and return true, or false_
+_Example Input: 250_
+_Example output: True_
+
+_The program is going to check if a number is evenly divisible by 10, and return true, or false_
+_Example Input: 70_
+_Example output: True_
+
+_The program is going to check if a number is evenly divisible by 5, and return true, or false_
+_Example Input: 25_
+_Example output: True_
+
+_The program is going to check if a number is evenly divisible by 1, and return true, or false_
+_Example Input: 1_
+_Example output: True_
+
+_Program will return corresponding Roman numberals based on divisibility of number by 1,000, 500, 100, 50, 10, 5, 1_
+_Example Input: 3,000_
+_Example output: M_
+_Example Input: 500_
+_Example output: D_
+_Example Input: 5_
+_Example output: V_
+
+
+
+
+
+ 
 ## Setup/Installation Requirements
 
 * _This is a great place_
